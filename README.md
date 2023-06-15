@@ -27,6 +27,7 @@
 ### netstat
     Displays 
 ## OUTPUT
+```
 ![WhatsApp Image 2023-05-22 at 9 38 17 PM](https://github.com/Vengatraj212221010043/Ex01/assets/128878559/81cf1b0e-75db-41af-b314-1dce7048a70b)
 ![WhatsApp Image 2023-05-22 at 9 38 17 PM(1)](https://github.com/Vengatraj212221010043/Ex01/assets/128878559/611045d7-9ebf-4ebf-9cdd-52447954ec90)
 ![WhatsApp Image 2023-05-22 at 9 38 17 PM(2)](https://github.com/Vengatraj212221010043/Ex01/assets/128878559/99dbfd7b-ae33-439b-b377-c80e54e135ca)
@@ -36,6 +37,7 @@
 ![WhatsApp Image 2023-05-22 at 9 38 17 PM(6)](https://github.com/Vengatraj212221010043/Ex01/assets/128878559/931b06aa-5665-44a0-aa29-927fe05be412)
 ![WhatsApp Image 2023-05-22 at 9 38 17 PM(7)](https://github.com/Vengatraj212221010043/Ex01/assets/128878559/64ae020f-7585-4772-aae5-a88929cd8dd4)
 ![WhatsApp Image 2023-05-22 at 9 38 17 PM(8)](https://github.com/Vengatraj212221010043/Ex01/assets/128878559/c97aaa6f-11fc-4f2b-8fc0-d5c6a4e83591)
+```
 
 ## RESULT
   The basic commands in networking are executed successfully.
